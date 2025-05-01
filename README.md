@@ -24,3 +24,16 @@ HEADER Authorization = "Bearer {token}"
 
 POST https://api.example.com/logs
 BODY {"user": "{final_name}", "action": "login"}
+
+````
+---
+
+## 🧪 Example: Chain API Requests
+
+```apidl
+GET https://api.example.com/users/123
+USE data.username TO my_username
+
+GET https://api.example.com/posts?author={my_username}
+```
+>Fetch user info, extract ```username```, and use it in a second request.
