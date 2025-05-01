@@ -37,3 +37,23 @@ USE data.username TO my_username
 GET https://api.example.com/posts?author={my_username}
 ```
 >Fetch user info, extract ```username```, and use it in a second request.
+
+---
+
+## 🔍 Syntax Overview
+
+| **Keyword** | **Description** |
+|-------------|-----------------|
+| `SET`       | Define a variable (`SET id = 5`) |
+| `GET`       | Perform a GET request |
+| `POST`      | Perform a POST request |
+| `PUT`       | Perform a PUT request |
+| `DELETE`    | Perform a DELETE request |
+| `USE`       | Extract data from a response (`USE data.key TO var`) |
+| `BODY`      | Define a JSON request body |
+| `HEADER`    | Add custom headers (`HEADER Authorization = "Bearer ..."`) |
+| `HOOK`      | Call external function/provider for processing |
+
+🔗 Full syntax: [SYNTAX.md](#)
+
+---
