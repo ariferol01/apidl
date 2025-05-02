@@ -90,4 +90,4 @@ You can include bearer tokens using `HEADER`:
 HEADER Authorization = "Bearer {access_token}"
 ```
 ---
-![AI PAXO](https://github.com/ariferol01/apidl/blob/main/ai-paxo-banner.jpg)
+![AI PAXO](https://github.com/ariferol01/apidl/blob/main/ai-paxo-bottom-banner.jpg)
