@@ -94,4 +94,22 @@ You can include bearer tokens using `HEADER`:
 HEADER Authorization = "Bearer {access_token}"
 ```
 ---
+
+## 🌐 Website
+Visit [apidl.org](https://apidl.org) for:
+- Interactive playground (coming soon)
+- Docs and tutorials
+- Compiler registry
+- Community links
+
+---
+## 🤝 Contributing
+We welcome contributions in:
+- Compiler development (any language)
+- Syntax proposals
+- Documentation, tests, and examples
+
+Start with a fork and a pull request. See [CONTRIBUTING.md](./CONTRIBUTING.md)
+
+---
 ![AI PAXO](https://github.com/ariferol01/apidl/blob/main/ai-paxo-bottom-banner.jpg)
