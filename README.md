@@ -112,4 +112,9 @@ We welcome contributions in:
 Start with a fork and a pull request. See [CONTRIBUTING.md](./CONTRIBUTING.md)
 
 ---
+
+## 📄 License
+MIT © 2025 – APIDL Project
+
+---
 ![AI PAXO](https://github.com/ariferol01/apidl/blob/main/ai-paxo-bottom-banner.jpg)
