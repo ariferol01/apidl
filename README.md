@@ -72,3 +72,19 @@ GET https://api.example.com/posts?author={my_username}
 Want to build one? See the [Compiler Guide](#)
 
 ---
+
+## 💡 Use Cases
+
+- AI agents executing dynamic, multi-step API tasks  
+- Middleware for prompt-based API orchestration  
+- Lightweight automation across services  
+- Pluggable backend API layers  
+
+---
+
+## 🔐 Authentication Support
+
+You can include bearer tokens using `HEADER`:
+
+````apidl
+HEADER Authorization = "Bearer {access_token}"
