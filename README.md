@@ -57,3 +57,18 @@ GET https://api.example.com/posts?author={my_username}
 🔗 Full syntax: [SYNTAX.md](#)
 
 ---
+## 🛠️ Compilers
+
+| **Language**  | **Compiler Repo**         | **Status** |
+|---------------|----------------------------|------------|
+| PHP           | [apidl-php](#)             | WIP        |
+| Python        | *(coming soon)*            | Planned    |
+| JavaScript    | *(coming soon)*            | Planned    |
+| Golang        | *(coming soon)*            | Planned    |
+| Rust          | *(coming soon)*            | Planned    |
+| C#            | *(coming soon)*            | Planned    |
+
+
+Want to build one? See the [Compiler Guide](#)
+
+---
