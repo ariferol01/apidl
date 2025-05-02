@@ -1,5 +1,5 @@
 
-<img src="https://github.com/ariferol01/apidl/blob/main/logo.png" alt="Açıklama" height="50">
+<img src="https://github.com/ariferol01/apidl/blob/main/logo.svg" alt="Açıklama" height="50">
 
 ---
 # APIDL – API Directive Language & AI Prompt Integration Definition Language
