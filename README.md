@@ -86,5 +86,8 @@ Want to build one? See the [Compiler Guide](#)
 
 You can include bearer tokens using `HEADER`:
 
-````apidl
+```apidl
 HEADER Authorization = "Bearer {access_token}"
+```
+---
+![AI PAXO](https://github.com/ariferol01/apidl/blob/main/ai-paxo-banner.jpg)
