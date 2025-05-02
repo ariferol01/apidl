@@ -1,3 +1,7 @@
+
+<img src="https://github.com/ariferol01/apidl/blob/main/logo.png" alt="Açıklama" height="50">
+
+---
 # APIDL – API Directive Language & AI Prompt Integration Definition Language
 
 **APIDL** is a lightweight, AI-native DSL (Domain Specific Language) for describing API workflows in a readable, prompt-friendly format. It allows AI models, backend systems, or automation layers to describe and execute multi-step API logic using a minimal and extensible syntax.
